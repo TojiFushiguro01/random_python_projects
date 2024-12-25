@@ -39,4 +39,4 @@ A Python implementation of the classic hand game Rock-Paper-Scissors.
 ## How to Run the Projects
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/random_python_projects.git
+   git clone https://github.com/yourusername/random_python_projects.git](https://github.com/TojiFushiguro01/random_python_projects.git
