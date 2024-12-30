@@ -36,6 +36,16 @@ A Python implementation of the classic hand game Rock-Paper-Scissors.
 
 ---
 
+### 5. **Personal Finance Tracker**
+A Python-based application to track and manage personal finances effectively.
+**Highlights**:  
+- Users can input income and expenses to monitor their budget.
+- Categorized expense tracking for better financial insights.
+- Dynamic summaries of total income, expenses, and savings.
+- Developed using Python and its libraries for efficient data handling.
+
+---
+
 ## How to Run the Projects
 1. Clone this repository to your local machine:
    ```bash
